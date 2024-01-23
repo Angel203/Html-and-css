@@ -1,0 +1,66 @@
+.center
+{
+text-align: center;
+margin: auto;
+width: 100;
+border: 3px solid white;
+padding: 10px;
+}
+
+#mainTitle{
+    text-align: center;
+}
+
+#firstArticle {
+    text-align: center;
+    text-shadow: 2px 2px white;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+nav ul li a {
+   color: red;
+   font-size: 30px;
+   text-decoration: none;
+   font-weight: 900;
+}
+
+nav ul li a:hover {
+    color: pink;
+    text-decoration: underline;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0px 30px 0px 30px; /* Top Right Bottom Left*/
+}
+
+nav ul {
+    text-align: center;
+}
+
+#myLinks{
+    border-style: outset;
+    padding: 10px;
+    border-width: 5px;
+    background-color: #ed7aff;
+
+}
+
+footer{
+    position: absolute;
+    display: block;
+    bottom: 0;
+    border-style: solid;
+    padding: 10px;
+    /* border-width: 20px 5px; */
+    background-color: #ed7aff;
+
+}
+.title{
+    text-align: center;
+}
+#about{
+    background-color: aqua;
+}
+
