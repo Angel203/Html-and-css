@@ -49,12 +49,13 @@ nav ul {
 
 footer{
     position: absolute;
-    display: block;
     bottom: 0;
     border-style: solid;
     padding: 10px;
     /* border-width: 20px 5px; */
     background-color: #ed7aff;
+    width: 100%;
+    clear: both;
 
 }
 .title{
@@ -63,4 +64,8 @@ footer{
 #about{
     background-color: aqua;
 }
+#body{
+
+}
+
 

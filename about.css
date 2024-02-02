@@ -1,0 +1,38 @@
+body{
+    background-color: #ebe4ed;
+    /* text-align: center; */
+}
+
+
+.title{
+    text-align: center;
+}
+
+#p{
+    text-align: center;
+}
+#myLinks{
+    border: 1px solid black;
+
+}
+#section1{
+    border: 10px solid pink;
+    background-color: aliceblue;
+    margin: 20px 40px 20 40px;
+    padding: 10px 20xp 10px 30px;
+}
+#sect2{
+    text-align: center;
+}
+#sect3{
+   text-align: center; 
+}
+
+#mainSec{
+    border: 10px #630363;
+
+
+}
+#sect4{
+    text-align: center;
+}
