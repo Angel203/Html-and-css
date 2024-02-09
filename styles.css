@@ -9,6 +9,8 @@ padding: 10px;
 
 #mainTitle{
     text-align: center;
+    text-shadow: 2px 2px white;
+
 }
 
 #firstArticle {
@@ -16,6 +18,10 @@ padding: 10px;
     text-shadow: 2px 2px white;
     font-size: 30px;
     font-weight: 900;
+    height: 400;
+    width: 75;
+    background-color: aliceblue;
+    box-shadow: 10px 10px light pink;
 }
 
 nav ul li a {
