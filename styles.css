@@ -70,8 +70,17 @@ footer{
 #about{
     background-color: aqua;
 }
-#body{
-
+#signUp{
+background-color: light rgb(209, 209, 128);
+text-align: center;
 }
+#signup2{
+    border: 1px solid palevioletred;
+}
+#form{
+  color: blueviolet;
+}
+
+
 
 
